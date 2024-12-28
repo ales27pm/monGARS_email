@@ -1,0 +1,12 @@
+Flask
+Flask-Cors
+msal
+requests
+caldav
+langchain
+chromadb
+speechrecognition
+pyttsx3
+langchain-ollama
+langdetect
+openai
